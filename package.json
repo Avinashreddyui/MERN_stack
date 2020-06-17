@@ -1,0 +1,30 @@
+{
+  "name": "mern_stack_app",
+  "version": "1.0.0",
+  "description": "\"my personal project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\"",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avinashreddyui/MERN_stack.git"
+  },
+  "keywords": [
+    "mern",
+    "stack",
+    "react",
+    "express",
+    "node"
+  ],
+  "author": "Avinash Theppala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avinashreddyui/MERN_stack/issues"
+  },
+  "homepage": "https://github.com/Avinashreddyui/MERN_stack#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
